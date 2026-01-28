@@ -1,2 +1,3 @@
-![Image 1]([frontend/public/Screenshot 2026-01-29 003756.png](https://github.com/123Sangram/Black_coffer/blob/main/frontend/public/Screenshot%202026-01-29%20003756.png))
-![Image 2]([frontend/public/Screenshot 2026-01-29 003807.png](https://github.com/123Sangram/Black_coffer/blob/main/frontend/public/Screenshot%202026-01-29%20003807.png))
+<img width="1910" height="1031" alt="Screenshot 2026-01-29 003756" src="https://github.com/user-attachments/assets/ee7b7d9a-cbfe-4263-917a-c3f7ca306d5f" />
+<img width="1897" height="1042" alt="Screenshot 2026-01-29 003807" src="https://github.com/user-attachments/assets/9d6ff467-a3c3-4981-939e-999151e548f0" />
+
